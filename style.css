@@ -11,19 +11,30 @@ main h1 {
     text-decoration: none;
 }
 
-
 main h1 a:link { 
+    color: #CB6CE6;
+    text-shadow: 1px 1px 1px black;
+    font-size: 36px;
     text-decoration: none; 
 } 
 
 main h1 a:visited { 
     text-decoration: none; 
+    color: #CB6CE6;
+    text-shadow: 1px 1px 1px black;
+    font-size: 36px;
 } 
 
 main h1 a:hover { 
-    text-decoration: none; 
+    text-decoration: none;
+    color: #CB6CE6;
+    text-shadow: 1px 1px 1px black;
+    font-size: 36px; 
 } 
 
 main h1 a:active { 
-    text-decoration: none; 
+    text-decoration: none;
+    color: #CB6CE6;
+    text-shadow: 1px 1px 1px black;
+    font-size: 36px; 
 }

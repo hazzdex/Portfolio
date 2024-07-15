@@ -10,3 +10,20 @@ main h1 {
     font-size: 36px;
     text-decoration: none;
 }
+
+
+main h1 a:link { 
+    text-decoration: none; 
+} 
+
+main h1 a:visited { 
+    text-decoration: none; 
+} 
+
+main h1 a:hover { 
+    text-decoration: none; 
+} 
+
+main h1 a:active { 
+    text-decoration: none; 
+}

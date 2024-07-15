@@ -3,4 +3,5 @@ main h1 {
     padding-left: 20%; 
     color: #CB6CE6;
     text-shadow: #860081, 10px;
+    margin-left: auto;
 }
